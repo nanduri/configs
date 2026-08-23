@@ -1,0 +1,10 @@
+{
+  "dankLauncherKeys": {
+    "enabled": true,
+    "providers": [
+      "niri",
+      "mangowc"
+    ],
+    "noTrigger": true
+  }
+}
